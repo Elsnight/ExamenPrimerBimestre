@@ -5,6 +5,8 @@
 
 Implementar una aplicación en IONIC que demuestre la implemetación de un crud contra firebase. (2 puntos cada item, total 8 puntos) La aplicación debe tener además un splash screen (1 punto) y un metodo de autenticación de usuario contra firebebase (1 punto) Puede trabajar en parejas. Entregables: Repositorio en github con capturas de pantalla. Defensa del funcionamiento del aplicativo.
 
+Enlace al vide : [Video]
+
 Enlace al sitio oficial web: [Ionic]
 
 Enlace al sitio oficial web: [Firebase]
